@@ -1,0 +1,7 @@
+paths:
+  input_path:  "" # Path to the input folder
+  anno_path:   "" # Path to the annotation folder
+  output_path: "" # Path to the output folder
+  CLIP_PATH:   "" # Path to the CLIP model directory
+
+feature_type:  "local" # Choices: 'local', 'semi-global', 'global'
